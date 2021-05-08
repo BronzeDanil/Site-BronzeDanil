@@ -1,0 +1,12 @@
+body {
+	background-color: #FFA07A;
+ }
+ hr {
+    border: none; /* Убираем границу для браузера Firefox */
+    color: black; /* Цвет линии для остальных браузеров */
+    background-color: black; /* Цвет линии для браузера Firefox и Opera */
+    height: 4px; /* Толщина линии */
+   }
+button {
+    position: fixed; /* Фиксированное положение */
+   }
